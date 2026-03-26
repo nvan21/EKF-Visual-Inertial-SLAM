@@ -55,4 +55,4 @@ The fully coupled joint EKF effectively constrains pose uncertainty, resulting i
 
 ## Full Project Report
 
-For an in-depth analysis, comprehensive methodology, and detailed performance results across all datasets, please refer to the full project report included in this repository: (`ECE_276A_PR_3_Report.pdf`)[ECE_276A_PR_3_Report.pdf]
+For an in-depth analysis, comprehensive methodology, and detailed performance results across all datasets, please refer to the full project report included in this repository: [`ECE_276A_PR_3_Report.pdf`](ECE_276A_PR_3_Report.pdf)

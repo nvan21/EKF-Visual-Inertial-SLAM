@@ -49,7 +49,7 @@ The fully coupled joint EKF effectively constrains pose uncertainty, resulting i
 
 ![Estimated Trajectory vs IMU-Only Baseline](images/slam_trajectory_dataset_00.png)
 
-![Visual Feature Tracking Performance](images/feature_tracking_dataset02.png)
+![Visual Feature Tracking Performance](images/feature_tracking_dataset_02.png)
 
 ---
 
